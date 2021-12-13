@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://backenderic.herokuapp.com/) here!!
 
 1. Git Clone 
 ```
-Git Clone #GITHUB-repo-link
+Git Clone https://github.com/EricLiv/selfdevelopment.git
 ```
 
 2. Backend setting
