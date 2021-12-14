@@ -1,4 +1,4 @@
-# Cyber Shop
+# Electro-Store
 # Forum App in React & Redux + Django
 
 ```
@@ -9,9 +9,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](#fronendLink) here!!
+Check out [FRONTEND LIVE DEMO](https://frontenderic.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](#backendLINK) here!!
+Check out [API LIVE DEMO](https://backenderic.herokuapp.com/) here!!
 
 ## Tech used
 
@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](#backendLINK) here!!
 
 1. Git Clone 
 ```
-Git Clone #GITHUB-repo-link
+Git Clone https://github.com/EricLiv/selfdevelopment.git
 ```
 
 2. Backend setting
