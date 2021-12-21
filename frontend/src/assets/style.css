@@ -185,7 +185,7 @@ ul.items li .info .info-bottom {
   ul.items li .info .info-bottom {
     display: flex;
     justify-content: space-between;
-    left: -10%;
+    /* left: -10%; */
     top: 61%;
     padding-left: 0%;
   }
@@ -200,7 +200,7 @@ ul.items li .info .info-bottom {
 @media screen and (max-width: 450px) {
   ul.items li .info .info-bottom {
     position: absolute;
-    left: 7%;
+    left: 10%;
     top: 26px;
 
     display: flex;
